@@ -1,4 +1,4 @@
-# garlicphone
+# Garlic phone
 This is a repo of the Project "Garlic Phone"!
 
 ## Notice!
