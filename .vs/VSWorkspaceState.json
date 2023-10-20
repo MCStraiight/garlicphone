@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\fonts",
+    "\\images"
   ],
-  "SelectedNode": "\\pyproject.toml",
+  "SelectedNode": "\\login.py",
   "PreviewInSolutionExplorer": false
 }
